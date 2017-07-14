@@ -1099,3 +1099,1121 @@ gl
 gs
 git push -f 
 fe
+gs
+udgit
+gs
+al
+cd ~
+gs
+al
+src
+fe
+be
+mn
+al
+src
+al
+src
+al
+src
+al
+src
+al
+gs
+src
+cd ~
+gs
+git add .bashrc && git commit -m "new prompt with sorter path"
+al
+src
+al
+src
+fe
+ll
+al
+src
+mn
+src
+mn
+be
+:wq
+al
+src
+fe
+src
+cd ~
+al
+cd ~
+src
+ll
+gl
+git checkout f730296686007e2d08f5aa9cb1ef5836eb7d4008 .bashrc
+gs
+src
+fe
+export PROMPT_DIRTRIM=2
+al
+src
+fe
+be
+mn
+gs
+al
+hm
+ll
+gs
+git checkout -b withPromDirTrim
+ac working
+al
+gs
+gb
+gl
+src
+gb
+src
+gb
+git branch -m withPromDirTrim trim_path
+gb
+git checkout trim_path 
+src
+fe
+al
+fe
+ll
+gs
+git checkout master 
+git pull
+gs
+mn
+gs
+git checkout -b MONITORING-159
+gs
+ac works1
+gs
+ac "with error check"
+git rebase -i -X theirs master
+git push -f
+git push --set-upstream origin MONITORING-159
+npm run lint
+fe
+npm run lint
+gb
+gl
+git checkout -b DialogeRausziehen
+ac simpleinputdialog
+Am
+gs
+gl
+gs
+gst
+gs
+Am
+gs
+gb
+git pull
+fe
+ll
+gs
+git pull
+gs
+git pul
+git pull
+git checkout -b MONITORING-160
+gb
+git branch -m MONITORING-160 MONITORING-165
+git branch
+git checkout MONITORING-165 
+gl
+gs
+gb
+gl
+git branch
+git checkout MONITORING-167
+gl
+git checkout -b MONITORING-165
+git branch -D MONITORING-165
+git checkout -b MONITORING-165
+gl
+fe
+gs
+gl
+gb
+git pull
+gs
+mn
+gl
+gs
+gd
+git checkout -b MONITORING-165_typeahead
+ac beforeTask
+gs
+gl
+gs
+udgit
+gs
+ac "onfocus+grouped+processed"
+gs
+ac "mit lukas"
+gs
+npm install ngx-bootstrap@1.3.4 --save
+fe
+npm install ngx-bootstrap@1.3.4 --save
+npm install ngx-bootstrap@1.4.0 --save
+npm install ngx-bootstrap@v1.4.0 --save
+npm install ngx-bootstrap@1.6.2 --save
+gs
+npm install
+npm update
+gs
+git checkout package.json
+ac "mitLukasHacky"
+apt-get update
+sudo apt-get update
+sudo apt-get upgrade
+gs
+fe
+gs
+gl
+gs
+gd
+udgit
+gs
+ac "bla
+"
+gv
+gb
+git checkout MONITORING-165_typeahead 
+gb
+git checkout MONITORING-165_trywithoutHack
+ac working
+"better looking"
+ac "better looking"
+gs
+Am
+gs
+Am
+git checkout master 
+gb
+gs
+gd
+udgit
+gb
+Am
+gs
+Am
+git branch
+git checkout -b MONITORING-165_clean
+git rebase -i -X theirs 385a2c0559a1c5b086728f0cafd2a38d3862c85d 
+gs
+Am
+gs
+gd
+Am
+gs
+gd
+Am
+gs
+gd
+Am
+gs
+ac "model gets updated with wrong values"
+gs
+ac "deactivated model change on typing"
+git checkout -b MONITORING-165_ReactiveForm
+gs
+ac withReactive
+gb
+git checkout master
+gb
+git branch
+git checkout MONITORING-165_ReactiveForm
+Am
+git checkout mastre
+git checkout master
+gb
+gs
+Am
+gl
+Am
+gs
+ac "improved error showing"
+gs
+gd
+Am
+git branch
+gs
+git checkout MONITORING-165
+gb
+git checkout master
+git pull
+gb
+gs
+gl
+git rebase -i -X theirs 7a5cc3bd3d396e1a029717410bbaa4345a84cdde
+git rebase -i -X theirs 385a2c0559a1c5b086728f0cafd2a38d3862c85d
+gl
+udgit
+gs
+gd
+Am
+gl
+git push
+git push --set-upstream origin MONITORING-165
+gs
+Am
+git push -f
+gs
+git checkout master
+gs
+git pull
+gl
+gs
+gl
+gs
+git pull
+gl
+gs
+git add package.json 
+gs
+gl
+git commit -m "MONITORING-165 Upgrade ng2 bootstrap to 1.4.2"
+gl
+git push
+fe
+gs
+gd
+udgit
+mn
+git checkout master
+git pull
+gl
+al
+etr
+gs
+git checkout master
+gs
+gl
+gs
+git init
+gs
+ac init
+gs
+gl
+gs
+git checkout -b ADDON-415
+gs
+fe
+gs
+gd
+Am
+git push -f
+gs
+fe
+gs
+git commit --amend
+gs
+Am
+gs
+Am
+gs
+gd
+Am
+gs
+gd
+Am
+gs
+Am
+gs
+gl
+gs
+gl
+gs
+Am
+gs
+Am
+gs
+Am
+gs
+gd
+Am
+git checkout master
+gs
+git pull
+gl
+gb
+git rebase -i master
+gl
+git push -f
+gs
+Am
+git push -f
+gs
+gd
+gs
+gd
+Am
+gs
+gd
+Am
+gs
+git push -f
+Am
+git push -f
+gs
+Am
+git push -f
+etr
+ll
+gs
+al
+src
+etr
+gs
+gl
+gs
+git init
+gs
+ac init
+gs
+gl
+gs
+git init
+gs
+ac init
+gs
+git init
+ac init
+git checkout -b ADDON-415
+gb
+gs
+git init
+ac init
+cd C:\Users\bya\AppData\Local\Temp\SAP\ECTR\ectr-51\logs
+des
+al
+src
+elog
+ll
+tail -f Console_2017.05.08-20_11_19.log 
+tail -f Console_2017.05.10-14_15_23.log 
+tail -f Console_2017.05.10-16_00_36.log 
+tail -f Console_2017.05.10-16_02_24.log 
+tail -f Console_2017.05.10-16_22_37.log 
+tail -f Console_2017.05.10-17_15_39.log 
+tail -f Console_2017.05.11-11_14_23.log 
+etr
+gs
+git checkout -b ADDON-415
+gs
+gd
+gl
+ac testingFirst
+gb
+git checkout -b ADDON-415_125
+gs
+udgit
+al
+elog
+ll
+tail -f Console_2017.05.12-16_33_25.log 
+etr
+gs
+gd
+git stash
+udgit
+git stash apply stash@{0}
+apt-get update
+sudo apt-get update
+sudo apt-get upgrade
+fe
+etr
+gs
+gd
+gs
+etr
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+ac "working"
+gs
+gd
+gs
+gb
+git checkout master
+gs
+gd
+gs
+cd ..
+cd ectr_new0608/
+ll
+gs
+explorer
+gs
+git pull
+git show remote
+git remotes
+git remote
+git remote show origin 
+git pull
+git pull origin master 
+git pull
+git branch --set-upstream-to=origin/master
+git pull
+gs
+gd
+gs
+gd
+/mnt/c/Windows/System32/PING.EXE
+cd /mnt/c/Windows/System32/p/mnt/c/Program\ Files\ \(x86\)/Internet\ Explorer/iexplore.exe
+/mnt/c/Windows/System32/notepad.exe "C:\Windows\System32\drivers\etc\hosts"
+cd /mnt/c/Windows/System32/
+ll
+./notepad.exe 
+sb
+ll
+cd DropwidardBarry/
+mvn clean install
+ll
+cd target/
+ll
+cd ..
+java -jar target/DropwidardBarry-1.0-SNAPSHOT.jar server config.yml 
+fe
+gs
+git pull
+gl
+gs
+udgit
+gs
+cd ..
+ll
+cd ..
+udgit
+gs
+fe
+gs
+git checkout -b MONITORING-181
+gs
+git checkout src/app/client-overview/client-info/client-info.component.ts
+gs
+ac "Create test for Actiontabservice.getUrlWithoutQueryParams"
+gl
+gs
+gd
+gs
+ac "MONITORING-181 Linked Dashboards do not work for clients"
+git push
+git push --set-upstream origin MONITORING-181
+git checkout -b MONITORING-181_savehistory
+gb
+git rebase -i master
+gl
+git push -f
+gs
+ac "MONITORING-181 Catch case angular query params + query params url;a=b?c=d"
+Am
+git push -f
+gs
+Am
+git push -f
+Am
+git push -f
+fe
+gs
+gd
+ac "MONITORING-181 refactoring, cleanup"
+gs
+git push -f
+npm run lint
+al
+etr
+gb
+git pulll
+git pull
+fe
+git pull
+gb
+git checkout master
+git pull
+gl
+etr
+gl
+git pull
+al
+src
+sandvik
+ll
+gs
+git init
+gs
+ll
+cd ..
+ll
+mv .gitignore cust-sandvik/
+cd -
+ll
+gs
+git init
+gs
+ac init
+gs
+git init
+gs
+ac init
+gs
+git init
+ac init
+gs
+git init
+ac init
+etr
+gs
+git pull
+git checkout -b PLM-21009_work
+gs
+gd
+g
+gs
+gd
+ac "filtered documents for error and if there are no clean documents throw error"
+gb
+gl
+gs
+udgit
+gs
+gl
+gd
+gs
+gd
+gl
+gs
+gd
+gs
+gl
+git show 9077498a4ba0e6762b115b2b95a9e933e2dff6b7 modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java 
+git show 9077498a4ba0e6762b115b2b95a9e933e2dff6b7:modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java
+cls
+clear
+git show 9077498a4ba0e6762b115b2b95a9e933e2dff6b7:modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java
+gs
+gd
+ac "handle only case for 1 document"
+gl
+gs
+git checkout -b PLM-21009_rebase
+gl
+git checkout master
+git pull
+gb
+git rebase -i master
+Am
+git checkout -b PLM-21009
+git checkout -b Bugfix/PLM-21009
+git push
+git push --set-upstream origin Bugfix/PLM-21009 
+gs
+gd
+git checkout PLM-21009_work 
+git stash
+git checkout PLM-21009_work 
+git stash apply stash{0}
+git stash apply stash@{0}
+gd
+gl
+ac "handle all documents with errors"
+gl
+gb
+gl
+git stash apply stash@{0}
+gd
+Am
+gl
+git push -f
+git branch
+git checkout ADDON-505_dirty 
+git rebase -i master
+gl
+git branch
+git checkout ADDON-505_clean
+gl
+gb
+al
+src
+gb
+al
+src
+al
+gb
+gco Feature/ADDON-505
+al
+src
+al
+grm
+al
+src
+grm
+al
+gco master
+git pull
+gl
+gb
+git checkout -b ADDON-505_0607_work
+ac start
+gb
+git checkout Bugfix/PLM-21009 
+gs
+gl
+gs
+git checkout e78f713e53a42ad6064c0f4f83fb1dbfd811884e:modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java
+git checkout e78f713e53a42ad6064c0f4f83fb1dbfd811884e modules/addons/src/main/java/plm/modules/convert/omf/OmfConversionSchedule.java
+gs
+gl
+Am
+git push -f
+gs
+gd
+Am
+git push -f
+gb
+gco ADDON-505_0607_work
+gs
+gd
+gl
+ac work
+gb
+git checkout Bugfix/PLM-21009
+gs
+gd
+Am
+git push -f
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gs
+gd
+gl
+gs
+gl
+clear
+gl
+git stash
+git stash save
+git checkout master
+clear
+gl
+git checkout master
+git stash save
+lg
+clear
+git stash save
+git checkout master
+gd
+sandvik
+gs
+udgit
+gs
+git checkout master
+gs
+git checkout -b fnc.sandvik.data.exc.export(UDF)
+git checkout -b fnc.sandvik.data.exc.exportUDF
+gs
+gd
+ac Start
+git branch
+Am
+git checkout NewFileLibrary 
+gs
+gb
+git checkout master
+gs
+g
+gd
+Am
+git checkout master
+gs
+gd
+ac REv.665
+gs
+etr
+gs
+git pull
+gb
+git rebase -i master
+gs
+udgit
+gs
+gd
+gs
+Am
+git push -f
+gs
+Am
+git push -f
+gs
+Am
+git push -f
+gs
+Am
+git push -f
+git rebase -i master
+gb
+git pull
+gb
+git rebase -i master
+gs
+git push -f
+gl
+gs
+git stash
+gl
+git rebase -i 1163d3c0300103272a64d680eba781c8562da0e8
+gs
+git stash apply stash@{0}
+git add
+gs
+git add .
+gs
+git commit --amend
+git rebase --continue
+gs
+git push -f
+gs
+Am
+git push -f
+gs
+gd
+gl
+Am
+gl
+Am
+git push -f
+sandvik
+gs
+gl
+git branch
+git checkout NewFileLibrary 
+git rebase -i master
+gs
+gb
+etr
+gs
+gb
+gs
+git pull
+gs
+git pull
+gl
+gs
+gd
+gl
+gb
+gl
+git rebase -i master
+gs
+git stash
+git rebase -i master
+gl
+git stash apply stash@{0}
+gl
+ac "ADDON-415: Clicking on select all rows sets focus on table"
+gl
+git push
+gs
+git branch
+gs
+git stash
+gb
+git pull
+git checkout -b ADDON-505
+git stash apply stash@{0}
+gs
+ac "bla"
+gs
+ac "woring_dirty
+"
+git checkout -b ADDON-505_clean
+ac "clean"
+gs
+gb
+gs
+gd
+Am
+gl
+git rebase -i a5980d4abf24b94a9e781fc7bcf3586dd53b6496
+gl
+gs
+gd
+Am
+gs
+Am
+gd
+gs
+Am
+gl
+gs
+gd
+git checkout -b ADDON-505
+git checkout master
+git pull
+gb
+git rebase -i master
+Am
+gl
+git push
+git push --set-upstream origin ADDON-505
+gb
+git checkout Feature/ADDON-505 
+gl
+git push
+git push origin Feature/ADDON-505
+git branch 
+git checkout Feature/ADDON-415 
+gl
+git rebase -i master
+gl
+git push
+git push -f
+gs
+git branch
+fe
+gs
+git pull
+etr
+gs
+gb
+git checkout master
+git pull
+gl
+git config --global user.name "bya"
+gs
+ac "bla"
+gl
+git reset --hard 29d1a37a58637e5f1b5533cccb7df4ce262ac435
+gl
+git pull
+fe
+git pull
+cd ..
+git pull
+be
+git pull
+git log
+al
+src
+inst46
+ll
+gs
+echo ".svn/" > .gitignore
+ll
+vim .gitignore 
+git init
+ac start
+gl
+Am
+git checkout -b ksb
+gs
+ac 0507_changes_mixed_ksb_sandvik
+gl
+git show HEAD 
+inst51
+gs
+echo ".svn/" > .gitignore
+ac Rev.4956
+git init
+ac Rev.4956
+inst46
+gs
+inst51
+git checkout -b PLM-21009_konvertierungStatus
+gs
+gd
+gb
+gs
+etr
+gs
+gd
+udgit
+gs
+gd
+udgit
+gs
+gd
+udgit
+gb
+gco Bugfix/PLM-21009
+gl
+git pull
+gb
+gs
+gd
+git push -f
+gl
+Am
+git push -f
+gb
+sandvik
+gs
+gb
+gl
+gs
+ac Rev_667
+gl
+git checkout -b SANDVIK-759_rework
+etr
+gs
+gd
+gs
+gd
+sandvik
+gs
+gd
+clear
+gd
+gs
+gd
+gl
+ac "Sandvik-759 After export a new folder is created but it is empty and is not required. Please could this be removed."
+gd
+gl
+gd
+gs
+gd
+ac "remove check for udf namespace"
+gs
+etr
+gco master
+git pull
+gb
+git checkout Feature/ADDON-505 
+gl
+al
+grm
+git push -f
+git push origin Feature/ADDON-505
+git push -f origin Feature/ADDON-505
+ac "got it working to use only obrobjectFilterhandler"
+gs
+gd
+git stash
+git stash apply stash@{0}
+gd
+gs
+gl
+gs
+git checkout -help
+git checkout master -- core/plm++/java/src/plm/utils/filtering/ObrObjectFilterHandler.java
+gs
+ac "delegated calls to obrObjectFilterhandler."
+gs
+Am
+gb
+git checkout -b ADDON-505_1007_work
+gb
+gp
+gl
+git rebase -i 894b26521ed0502887480504d216cb9799e30457
+gl
+git rebase -i 36f2c39dcc25ab02a431115e84ffb147285fd2dc
+git push -f
+git push -f origin Feature/ADDON-505
+gs
+gco master
+git pull
+gs
+gp
+gs
+git rebase -i master
+udgit
+gs
+git reset HEAD modules/plm++hypermill/.project
+gs
+git rebase -i master
+git push -f
+git push -f origin Feature/ADDON-505
+gb
+gco Bugfix/PLM-21009
+gl
+git rebase -i master
+git push -f
+gl
+gco master
+git pull
+gp
+git rebase -i master
+gl
+git push -f
+gl
+gs
+git pull
+gl
+gb
+gco Feature/ADDON-505
+git rebase -i master
+gl
+sandvik
+gd
+gs
+ac "bla"
+ll
+fe
+cmd
+cmd /
+ll
+gs
+etr
+gs
+gco master
+udgit
+gs
+gco master
+gs
+git pull
+gs
+bash ~
+bash -c ls
+cd ~
+ll
+vim .bashrc 
+src
+notepad.exe 
+ipconfig.exe 
+ipconfig.exe | grep IPv4 | cut -d: -f2
+man cut
+ls -la | findstr.exe | foo.txt
+ls -la | findstr.exe  foo.txt
+ls -la | findstr.exe foo.txt
+cmd.exe /c dir
+PING.EXE www.google.com
+notepad.exe ".idea"
+ll
+notepad.exe .bash_history 
+notepad.exe ${pwd}
+echo "${pwd}"
+explorer.exe 
+explorer.exe .
+exit
+ll
+pwd
+ex .
+ll
+ex .
+exit
