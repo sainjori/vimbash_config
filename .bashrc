@@ -143,13 +143,13 @@ alias gco=gitCheckout
 alias grm='git rebase -i master'
 set -o vi
 set keymap vi-command
-set show-mode-in-prompt on
 set noerrorbells
 alias gb='git branch'
 alias gs='git status'
 alias gl='git log'
 alias ls='ls -F --color --show-control-chars'
 alias gd='git diff'
+alias gsh='git show HEAD'
 alias Am="git add . && git commit --amend"
 alias am="git commit --amend"
 alias udgit="git checkout ."
@@ -160,15 +160,16 @@ alias fe="cd /mnt/c/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashbo
 alias gp="git checkout -"
 alias be="cd /mnt/c/ENTWICKLUNG/java/workspaces/monitoring-base/dashboard/dashboard-backend"
 alias sb="cd /mnt/c/Users/bya/workspace/sandbox"
-alias etr="cd /mnt/c/ENTWICKLUNG/java/workspaces/ectr_trIJ_0805"
-alias etr="cd /mnt/c/ENTWICKLUNG/java/workspaces/ectr_trunk_gitlap"
+alias etr="cd /mnt/c/ENTWICKLUNG/java/workspaces/ectr-platform-lab/"
 alias mn="cd /mnt/c/ENTWICKLUNG/java/workspaces/monitoring-base"
 alias gst="git stash"
-alias gap="git stash apply stash@{0}"
+alias gsa="git stash apply stash@{0}"
 alias elog="cd /mnt/c/Users/bya/AppData/Local/Temp/SAP/ECTR/ectr-51/logs"
-alias sandvik="cd /mnt/c/ENTWICKLUNG/java/workspaces/eclipse_customer/cust-sandvik"
+alias sv="cd /mnt/c/ENTWICKLUNG/java/workspaces/sandvik"
+alias weber="cd /mnt/c/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/"
+alias ws="cd /mnt/c/ENTWICKLUNG/java/workspaces"
 alias inst46="cd /mnt/c/ENTWICKLUNG/ectr_installations/DSC-ECTR-46"
-alias inst51="cd /mnt/c/ENTWICKLUNG/ectr_installations/ECTR-51"
+alias 51="cd /mnt/c/ENTWICKLUNG/ectr_installations/ECTR-51"
 alias subl="sublime_text.exe"
 alias ex="explorer.exe"
 parse_git_branch() {
@@ -185,4 +186,3 @@ set show-mode-in-prompt on
 export PROMPT_DIRTRIM=2
 export PATH=$PATH:/mnt/c/Windows/System32
 export PATH=$PATH:/mnt/c/Programme/Sublime\ Text\ 3
-
