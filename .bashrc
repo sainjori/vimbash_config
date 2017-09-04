@@ -140,6 +140,7 @@ alias ac=gitAddCommit
 alias gc=gitCommit
 alias ga=gitAdd
 alias gco=gitCheckout
+alias gcm='git checkout master'
 alias grm='git rebase -i master'
 set -o vi
 set keymap vi-command
@@ -166,6 +167,7 @@ alias gst="git stash"
 alias gsa="git stash apply stash@{0}"
 alias elog="cd /mnt/c/Users/bya/AppData/Local/Temp/SAP/ECTR/ectr-51/logs"
 alias sv="cd /mnt/c/ENTWICKLUNG/java/workspaces/sandvik"
+alias ksb="cd /mnt/c/ENTWICKLUNG/java/workspaces/customer-projects/ksb/trunk"
 alias weber="cd /mnt/c/ENTWICKLUNG/java/workspaces/customer-projects/weber-dillenburg/"
 alias ws="cd /mnt/c/ENTWICKLUNG/java/workspaces"
 alias inst46="cd /mnt/c/ENTWICKLUNG/ectr_installations/DSC-ECTR-46"
