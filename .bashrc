@@ -150,6 +150,7 @@ alias gs='git status'
 alias gl='git log'
 alias ls='ls -F --color --show-control-chars'
 alias gd='git diff'
+alias gdc='git diff --cached'
 alias gsh='git show HEAD'
 alias Am="git add . && git commit --amend"
 alias am="git commit --amend"
