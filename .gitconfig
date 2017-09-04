@@ -1,8 +1,15 @@
 [core]
-	autocrlf = false
+	autocrlf = true
 	editor = vim
 [user]
 	name = bya
 	email = bertan.yasar@dscsag.com
 [push]
 	default = simple
+[color]
+	ui = auto
+[diff]
+	renames = copies
+	mnemonicprefix = true
+[alias]
+	find = log --pretty=\"format:%Cgreen%H %Cblue%s\" --name-status --grep
