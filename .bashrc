@@ -145,6 +145,7 @@ alias grm='git rebase -i master'
 set -o vi
 set keymap vi-command
 set noerrorbells
+alias sysup='sudo apt-get update && sudo apt-get upgrade'
 alias gb='git branch'
 alias gs='git status'
 alias gl='git log'
